@@ -93,6 +93,8 @@ Other Language Changes
   :meth:`~object.__index__` method).
   (Contributed by Serhiy Storchaka in :issue:`37999`.)
 
+* XXX Describe changes to NamedTemporaryFile functionality. Re 2020-09-28-04-56-04.bpo-14243.YECnxv.rst
+
 
 New Modules
 ===========
